@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+    React is a a libary React.js solves problems of better handling of dynamic data for faster response times (From Google)
+
 - [ ] What does it mean to _think_ in react?
+
+    Everything are componenets so thinking about componenets more often. Also componenet hierarchies
 
 - [ ] Describe state.
 
+    How componenets are being used.
+
 - [ ] Describe props.
 
+    props are like parameters similar to  pure JavaScript. Props are variables passed to it by its parent component.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+     A function that trys to modify anything outside its scope.
 
 ## Project Set Up
 
